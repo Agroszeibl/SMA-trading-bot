@@ -135,8 +135,8 @@ if __name__ == '__main__':
             # importing data
 
             # get credentials for tradingview
-            username = 'amusedHope9510e'
-            password = 'Delta1234'
+            username = ##add your TV username
+            password = ##add your TV credentials
             tv = TvDatafeed(username=username, password=password)
 
             symbol = tv_symbol[0]
